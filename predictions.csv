@@ -1,0 +1,3 @@
+age,gender_male,diagnosis_Infection,prediction
+41,True,False,False
+29,False,True,False
